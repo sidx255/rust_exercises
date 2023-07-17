@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-main",
+      "appliesTo": "learn-rust/guessing_game/main",
+      "type": "launch"
+    }
+  ]
+}

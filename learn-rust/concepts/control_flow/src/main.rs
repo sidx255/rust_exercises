@@ -117,7 +117,7 @@ fn for_loop() {
 fn for_range() {
     for number in (1..4).rev() { // (1..4) is a range
         println!("{number}");
-    }
+    }f
     println!("LIFTOFF!!!");
 }
 
